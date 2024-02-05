@@ -20,7 +20,7 @@ The solution is designed to provide technical support to Intervision employees, 
 
 - **AWS Lambda Functions**:
   - `employee_authentication_code_hook`: Manages the employee id verfication process.
-  - `connect101-get-prompts`: Manages dynamic retrieval of prompts based on customer input or context.
+  - `get-prompts`: Manages dynamic retrieval of prompts based on customer input or context.
 
 - **Amazon Lex Bots**:
   - `help-desk-menu`: Voice and DTMF support bot with intents for handling the primary menu.
