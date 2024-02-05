@@ -4,7 +4,7 @@
 This Intervision Support Desk Contact Center is a sample solution designed to streamline customer support operations using AWS Cloud services, specifically leveraging Amazon Connect. The project encompasses a custom contact flow, AWS Lambda functions for backend logic, DynamoDB tables for Managing user information and managing prompts dynamically as well as Leveraging Amazon Lex, AWS Pinpoint and SES for Email communication integration and integration with other AWS services to facilitate a simple, fast and secure customer support system.
 
 ## Use Case
-The solution is designed to provide technical support to intervision employees such as a self-service online password reset system. The caller is required to provide their employee ID and the system authenticates them against a dynamodb table. On succesful authentication, The system then sends an email with an OTP to the employee's email address. The employee confirms this verification code and a temporal password is generated and assigned to the employee to complete their password. 
+The solution is designed to provide technical support to intervision employees such as a self-service online password reset system. The caller is required to provide their employee ID and the system authenticates them against a dynamodb table. On succesful authentication, The system then sends an email with a verifcation code to the employee's email address. The employee confirms this verification code and a temporal password is generated and read out to the employee to complete their password reset. 
 
 ## Support Flow
 ![Intervision Support Flow](https://raw.githubusercontent.com/leslyndam/InterVision-Use-Case/main/Intervision%20Support%20Flow.png)
