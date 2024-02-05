@@ -6,7 +6,7 @@ This Intervision Support Desk Contact Center is a sample solution designed to st
 ## Architecture
 The solution utilizes Amazon Connect for handling customer interactions with an IVR (Interactive Voice Response) system. AWS Lambda functions are employed for dynamic data retrieval and authentication, enhancing the support experience. The architecture is designed for ease-of-use and flexibility, accommodating future enhancements with minimal adjustments.
 
-![Intervision Support Flow](https://github.com/leslyndam/InterVision-Use-Case/blob/main/Intervision%20Support%20Flow.pdf)
+![Intervision Support Flow](https://raw.githubusercontent.com/leslyndam/InterVision-Use-Case/main/Intervision%20Support%20Flow.png)
 
 
 ## Major Components
