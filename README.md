@@ -28,7 +28,7 @@ The solution is designed to provide technical support to Intervision employees, 
 
 ## Testing Instructions
 To test the Intervision Support Desk Contact Center:
-1. Call the test phone number [1-800-694-5605](tel:1-800-694-5605). Clicking on the number should initiate a call if supported by your device.
+1. Call the test phone number [1-800-694-5605](tel:1-800-694-5605).
 2. Navigate through the IVR prompts as a customer would, testing each pathway for accuracy and performance. When prompted for authentication, you can use "1234567" as a sample employee ID to test the authentication process.
 
 ## Author
