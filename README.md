@@ -26,4 +26,4 @@ To test the Intervision Support Desk Contact Center:
 2. Navigate through the IVR prompts as a customer would, testing each pathway for accuracy and performance. When prompted for authentication, you can use "1234567" as a sample employee ID to test the authentication process.
 
 ## Author
-The Intervision Support Desk Contact Center was developed by [Lesly Ndam]. This project is for Intervision Systems.
+The Intervision Support Desk Contact Center was developed by ***Lesly Ndam***. This project is for Intervision Systems.
